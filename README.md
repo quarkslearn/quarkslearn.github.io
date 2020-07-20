@@ -1,2 +1,2 @@
-# quarkslearn.github.io
-quarkslearn website
+# quarklearn
+website for a tutoring platform
